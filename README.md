@@ -21,5 +21,3 @@ Blog: https://whitecola.top/
 Minecraft ID : White_cola   
 Studying Machine Learning recently.   
 I believe that my dream will be possible.   
-
-You can contact me with QQ, my QQ number: 1302399643   
