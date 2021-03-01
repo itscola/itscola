@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 Blog: https://whitecola.top/   
 Minecraft ID : White_cola   
+Studying Machine Learning recently.
