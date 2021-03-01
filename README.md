@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 Blog: https://whitecola.top/   
 Minecraft ID : White_cola   
 Studying Machine Learning recently.   
-You can contact me with QQ, my QQ number: 1302399643
+I believe that my dream will be possible.   
+
+You can contact me with QQ, my QQ number: 1302399643   
