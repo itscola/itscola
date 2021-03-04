@@ -21,4 +21,4 @@ Blog: https://whitecola.top/
 Minecraft ID : White_cola   
 Studying Machine Learning recently.   
 I believe that my dream will be possible.   
-For You : http://music.163.com/song?id=1416929322
+http://music.163.com/song?id=1416929322
