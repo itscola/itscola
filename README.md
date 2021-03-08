@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 Blog: https://whitecola.top/   
 Minecraft ID : White_cola   
-
-To my former friends who met in Minecraft: http://music.163.com/song?id=1416929322 (Cheer for ours once friendship)
