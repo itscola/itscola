@@ -21,7 +21,7 @@ Blog: https://whitecola.top/
 Minecraft ID : White_cola   
 ### My Projects:   
 [![](https://img.shields.io/badge/MagicList[BukkitPlugin]-PowerfulWhiteList-blue.svg)]({https://github.com/itscola/MagicList})
-[![](https://img.shields.io/badge/HiPlugin[BukkitPlugin]-BukkitFrameWork-red.svg)]({https://github.com/itscola/HiPlugin})
+[![](https://img.shields.io/badge/HiPlugin[BukkitPlugin]-FrameWork-red.svg)]({https://github.com/itscola/HiPlugin})
 [![](https://img.shields.io/badge/GDPOfChinaForecasting-ByMachineLearning-orange.svg)]({https://github.com/itscola/HiPlugin})
 [![](https://img.shields.io/badge/DoubleClick-FabricMod-yellow.svg)]({https://github.com/itscola/MCPL})  
 [![](https://img.shields.io/badge/MCPL-MCPlayer-green.svg)]({https://github.com/itscola/doubleclick})
