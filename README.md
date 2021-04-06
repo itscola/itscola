@@ -29,4 +29,4 @@ Blog: https://whitecola.top/
 [![](https://img.shields.io/badge/BukkitWhitelist[BukkitPlugin]-更好的白名单插件-grey.svg)]({https://github.com/itscola/BukkitWhiteList})  etc.
 
 Minecraft ID : White_cola   
-![image](https://user-images.githubusercontent.com/47351250/113710396-36d5fb80-9716-11eb-8e38-293fe49d4ca8.png)
+[![](https://img.shields.io/badge/White_cola-NameMC-blue.svg)]({mine.ly/White_cola.1})
