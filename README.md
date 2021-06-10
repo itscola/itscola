@@ -30,3 +30,5 @@ Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg?style=social)]
 
 Minecraft ID : White_cola   
 [![](https://img.shields.io/badge/White_cola-NameMC-blue.svg)](https://namemc.com/profile/White_cola.1)
+
+我分享的是技术，而并非产品本身。
