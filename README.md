@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscola&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)   
 
-Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg?style=dark)](https://www.whitecola.top/)
+Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://www.whitecola.top/)
 
 ### My Projects:   
 [![](https://img.shields.io/badge/MagicList[BukkitPlugin]-PowerfulWhiteList-blue.svg)](https://github.com/itscola/MagicList)
