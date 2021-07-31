@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://www.whitecola.top/)
 
 ### My Projects:   
+[![](https://img.shields.io/badge/MinecraftLauncherCore-Colability-red.svg)](https://github.com/RevollCode/Colability)      
 [![](https://img.shields.io/badge/MagicList[BukkitPlugin]-PowerfulWhiteList-blue.svg)](https://github.com/itscola/MagicList)
-[![](https://img.shields.io/badge/HiPlugin[BukkitPlugin]-FrameWork-red.svg)](https://github.com/itscola/HiPlugin)
+[![](https://img.shields.io/badge/HiPlugin[BukkitPlugin]-FrameWork-blue.svg)](https://github.com/itscola/HiPlugin)
 [![](https://img.shields.io/badge/GDPOfChinaForecasting-ByMachineLearning-orange.svg)](https://github.com/itscola/GDPOfChinaForecasting)
 [![](https://img.shields.io/badge/DoubleClick-FabricMod-yellow.svg)](https://github.com/itscola/doubleclick)  
 [![](https://img.shields.io/badge/MCPL-MCPlayer-green.svg)](https://github.com/itscola/MCPL)
