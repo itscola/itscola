@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscola)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscola&layout=compact)](https://github.com/anuraghazra/github-readme-stats)     
 
-Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://www.whitecola.top/)
+Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://www.whitecola.top/)     
+
+![](https://komarev.com/ghpvc/?username=itscola)
 
 ### My Projects:   
 [![](https://img.shields.io/badge/MinecraftLauncherCore-Colability-red.svg)](https://github.com/RevollCode/Colability)      
