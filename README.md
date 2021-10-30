@@ -35,4 +35,3 @@ Minecraft ID : White_cola
 [![](https://img.shields.io/badge/White_cola-NameMC-blue.svg)](https://namemc.com/profile/White_cola.1)
 
 为什么我不用库？因为我要核心技术。   
-爱发电主页: https://afdian.net/@whitelist
