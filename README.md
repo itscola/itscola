@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscola)](https://github.com/anuraghazra/github-readme-stats) 
 
-Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://www.whitecola.top/)     
+Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://whitecola.top/)     
 
 ![](https://komarev.com/ghpvc/?username=itscola)
 
