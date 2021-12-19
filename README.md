@@ -21,7 +21,7 @@ Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://whit
 
 ![](https://komarev.com/ghpvc/?username=itscola)
 
-### My Projects:   
+<!-- ### My Projects:   
 [![](https://img.shields.io/badge/MinecraftLauncherCore-Colability-red.svg)](https://github.com/RevollCode/Colability)      
 [![](https://img.shields.io/badge/MagicList[BukkitPlugin]-PowerfulWhiteList-blue.svg)](https://github.com/itscola/MagicList)
 [![](https://img.shields.io/badge/HiPlugin[BukkitPlugin]-FrameWork-blue.svg)](https://github.com/itscola/HiPlugin)
@@ -29,7 +29,7 @@ Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://whit
 [![](https://img.shields.io/badge/DoubleClick-FabricMod-yellow.svg)](https://github.com/itscola/doubleclick)  
 [![](https://img.shields.io/badge/MCPL-MCPlayer-green.svg)](https://github.com/itscola/MCPL)
 [![](https://img.shields.io/badge/ITech[BukkitPlugin]-TechPlugin-grey.svg)](https://github.com/itscola/ITech)
-[![](https://img.shields.io/badge/BukkitWhitelist[BukkitPlugin]-更好的白名单插件-grey.svg)](https://github.com/itscola/BukkitWhiteList)  etc.
+[![](https://img.shields.io/badge/BukkitWhitelist[BukkitPlugin]-更好的白名单插件-grey.svg)](https://github.com/itscola/BukkitWhiteList)  etc. -->
 
 Minecraft ID : White_cola   
 [![](https://img.shields.io/badge/White_cola-NameMC-blue.svg)](https://namemc.com/profile/White_cola.1)
