@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
+# ![](https://komarev.com/ghpvc/?username=itscola)
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscola)](https://github.com/anuraghazra/github-readme-stats) 
 
 Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://whitecola.top/)   
-# ![](https://komarev.com/ghpvc/?username=itscola)
+
 
 <!-- ### My Projects:   
 [![](https://img.shields.io/badge/MinecraftLauncherCore-Colability-red.svg)](https://github.com/RevollCode/Colability)      
