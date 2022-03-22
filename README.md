@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 # ![](https://komarev.com/ghpvc/?username=itscola)
+I hope to be admitted to Tsinghua University in the future through my efforts and learning methods.   
+
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscola)](https://github.com/anuraghazra/github-readme-stats) 
@@ -34,4 +36,4 @@ Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://whit
 Minecraft ID : White_cola   
 [![](https://img.shields.io/badge/White_cola-NameMC-blue.svg)](https://namemc.com/profile/White_cola.1)
 
-I hope to be admitted to Tsinghua University in the future through my efforts and learning methods.   
+
