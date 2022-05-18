@@ -18,7 +18,6 @@ I hope to be admitted to Tsinghua University in the future through my efforts an
 
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscola)](https://github.com/anuraghazra/github-readme-stats) 
 
 Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://whitecola.top/)   
 
