@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 # ![](https://komarev.com/ghpvc/?username=itscola)
-I hope to be admitted to Tsinghua University in the future through my efforts and learning methods.   
+#I hope to be admitted to Tsinghua University in the future through my efforts and learning methods.   
 
 -->
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscola&theme=swift&show_icons=true)
+ -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscola&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://whitecola.top/)   
+
 
 
 <!-- ### My Projects:   
@@ -33,6 +36,6 @@ Blog: [![](https://img.shields.io/badge/blog-@White_cola-blue.svg)](https://whit
 [![](https://img.shields.io/badge/BukkitWhitelist[BukkitPlugin]-更好的白名单插件-grey.svg)](https://github.com/itscola/BukkitWhiteList)  etc. -->
 
 Minecraft ID : White_cola   
-[![](https://img.shields.io/badge/White_cola-NameMC-blue.svg)](https://namemc.com/profile/White_cola.1)
+<!--  [![](https://img.shields.io/badge/White_cola-NameMC-blue.svg)](https://namemc.com/profile/White_cola.1) -->
 
 
